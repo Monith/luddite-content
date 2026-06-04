@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-04",
+  "pages": [
+    {
+      "id": "things_to_do",
+      "title": "Things to Do While You Wait",
+      "sections": [
+        {
+          "title": "Take a five-minute reset",
+          "body": "Stand up. Drink water. Put one visible surface back in order."
+        },
+        {
+          "title": "Walk without your phone",
+          "body": "Step outside and walk for ten minutes. No headphones. No checking anything."
+        },
+        {
+          "title": "Write one sentence",
+          "body": "Write down one thing you have been avoiding and the smallest next action."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "sections": [
+        {
+          "title": "Can I end a session early?",
+          "body": "No. Luddite is designed around commitment. Once a session starts, the lock should feel real."
+        },
+        {
+          "title": "What should I do during a session?",
+          "body": "Do something physical, social, useful, or quiet. Walk, clean, read, cook, stretch, or talk to someone nearby."
+        },
+        {
+          "title": "Why does this app exist?",
+          "body": "Luddite helps you create a short period where your phone is no longer the easiest option."
+        }
+      ]
+    }
+  ]
+}
